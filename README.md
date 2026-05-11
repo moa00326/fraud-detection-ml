@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Credit Card Fraud Detection Using Machine Learning
 
 This project detects fraudulent credit card transactions using machine learning techniques and a Streamlit web application for real-time prediction.
@@ -108,9 +109,4 @@ fraud-detection-ml/
 │   └── fraud_detection_model.ipynb
 
 ---
-
-
-
-
-
 
