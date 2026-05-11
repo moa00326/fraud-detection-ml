@@ -46,13 +46,13 @@ Precision and recall comparison for the final Random Forest + SMOTE model.
 ![Streamlit App](images/streamlit_app.png)
 
 
-Future Improvements
-XGBoost integration
-ROC-AUC optimization
-Feature importance visualization
-Real-time API deployment
-Cloud deployment using Streamlit Cloud
-Author
+- Future Improvements
+- XGBoost integration
+- ROC-AUC optimization
+- Feature importance visualization
+- Real-time API deployment
+- Cloud deployment using Streamlit Cloud
+  Author
 
 Built by Tshego as a machine learning portfolio project focused on fraud analytics and real-time prediction systems.
 
