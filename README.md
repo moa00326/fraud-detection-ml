@@ -52,3 +52,16 @@ fraud-detection-ml/
 │
 ├── notebooks/
 │   └── fraud_detection_model.ipynb
+
+
+Model Performance
+
+The final Random Forest model achieved strong fraud detection performance after handling class imbalance using SMOTE.
+
+Fraud Detection Model Performance
+
+Precision and recall comparison for the final Random Forest + SMOTE model.
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+![Streamlit App](images/streamlit_app.png)
