@@ -46,7 +46,7 @@ Precision and recall comparison for the final Random Forest + SMOTE model.
 ![Streamlit App](images/streamlit_app.png)
 
 
-- Future Improvements
+##Future Improvements
 - XGBoost integration
 - ROC-AUC optimization
 - Feature importance visualization
