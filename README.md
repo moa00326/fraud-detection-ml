@@ -33,6 +33,30 @@ This project also includes a Streamlit web application for real-time fraud predi
 - Real-time classification results
 - Simple machine learning deployment
 
+  Model Performance
+
+The final Random Forest model achieved strong fraud detection performance after handling class imbalance using SMOTE.
+
+Fraud Detection Model Performance
+
+Precision and recall comparison for the final Random Forest + SMOTE model.
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+![Streamlit App](images/streamlit_app.png)
+
+
+Future Improvements
+XGBoost integration
+ROC-AUC optimization
+Feature importance visualization
+Real-time API deployment
+Cloud deployment using Streamlit Cloud
+Author
+
+Built by Tshego as a machine learning portfolio project focused on fraud analytics and real-time prediction systems.
+
+
 ## Project Structure
 
 ```text
@@ -54,14 +78,3 @@ fraud-detection-ml/
 │   └── fraud_detection_model.ipynb
 
 
-Model Performance
-
-The final Random Forest model achieved strong fraud detection performance after handling class imbalance using SMOTE.
-
-Fraud Detection Model Performance
-
-Precision and recall comparison for the final Random Forest + SMOTE model.
-
-![Confusion Matrix](images/confusion_matrix.png)
-
-![Streamlit App](images/streamlit_app.png)
